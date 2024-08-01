@@ -29,4 +29,3 @@ This CLI calculator is a simple tool for performing basic arithmetic and can be 
 
 ---
 
-This description provides a clear overview of your CLI calculator’s functionality and instructions for users.
